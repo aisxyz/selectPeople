@@ -1,0 +1,1 @@
+{0:'wu', 1:'jing', 2:'peng', 3:'yu', 4:'ren', 5:'yang', 6:'you', 7:'huang'}
